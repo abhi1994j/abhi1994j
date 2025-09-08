@@ -1,64 +1,63 @@
-<h2 align="left">
- <abc>
-  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Abhishek Chatterjee,<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Backend+Enthusiast;Java+%26+DSA+Learner;Lifelong+Tech+Explorer+🚀" alt="Typing SVG" />
+<h1 align="center">
+  Hi there! 👋 I'm Abhishek Chatterjee
   <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
- </abc>
-</h2>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Backend+Enthusiast;Java+%26+DSA+Learner;Lifelong+Tech+Explorer+🚀" alt="Typing SVG" />
+</h1>
 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
-<p align="left">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-    <a href="https://nextjs.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="sql" width="40" height="40"/>
-    </a>
-    <a href="https://leetcode.com/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="dsa" width="40" height="40"/>
-    </a>
-    <a href="https://www.figma.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-    </a>
-    <a href="https://webpack.js.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-    <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-    <a href="https://expressjs.com" target="_blank">
-        <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/>
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-    <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://www.docker.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-    </a>
-    <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-    </a>
-    <a href="https://reactnative.dev/" target="_blank">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="react native" width="40" height="40"/>
-    </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"/>
 </p>
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+---
 
-- :computer: I'm a Fullstack Developer, currently exploring React native
-- :hourglass_flowing_sand: Exploring Docker and Aws
-- :rocket: Always ready to collaborate for Dev Experiments
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking
+## ⚡ Technologies & Tools
 
-<h2 align="left">:heart: Let's get connected:</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,webpack,git,github,postman,docker,aws,firebase,figma,java" />
+</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-AbhishekChatterjee-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-chatterjee-9a7709209)
+---
 
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://my-portfolio-three-opal-98.vercel.app/)](https://my-portfolio-three-opal-98.vercel.app/)
+## 👨🏻‍💻 About Me
+
+- 💻 Full Stack Developer, currently exploring **React Native**
+- ⏳ Diving deep into **Docker** & **AWS**
+- 🚀 Love to collaborate on **exciting Dev Experiments**
+- 🎯 Life Hack: *"Explore 🔥 and Explode 💣 with knowledge"*
+- ⚡ Fun Fact: I enjoy **Meetups for learning** & **Conferences for networking**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishek-chatterjee&show_icons=true&theme=radical" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-chatterjee&theme=radical" height="160px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek-chatterjee&theme=react-dark&hide_border=true" width="100%"/>
+</p>
+
+---
+
+## ❤️ Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhishek-chatterjee-9a7709209" target="_blank">
+    <img src="https://img.shields.io/badge/-AbhishekChatterjee-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:abhishekchatterjee@email.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://my-portfolio-three-opal-98.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-blueviolet?style=for-the-badge&logo=appveyor&logoColor=white"/>
+  </a>
+  <a href="https://github.com/abhishek-chatterjee" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+🔥 *"Code. Learn. Build. Repeat."*
