@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi there! 👋 I'm Abhishek Chatterjee
   <br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00A67E&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Backend+Enthusiast;Java+%26+DSA+Learner;Lifelong+Tech+Explorer+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00B8FF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;Backend+Enthusiast;Java+%26+DSA+Learner;Lifelong+Tech+Explorer+🚀&gradient=true&colors=00B8FF,00F0FF,00A67E,00FF85" alt="Typing SVG" />
 </h1>
 
 <p align="center">
