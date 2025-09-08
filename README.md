@@ -59,6 +59,6 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-AbhishekChatterjee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-chatterjee-9a7709209)](https://www.linkedin.com/in/abhishek-chatterjee-9a7709209)
+[![Linkedin Badge](https://img.shields.io/badge/-AbhishekChatterjee-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-chatterjee-9a7709209)
 
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://my-portfolio-three-opal-98.vercel.app/)](https://my-portfolio-three-opal-98.vercel.app/)
