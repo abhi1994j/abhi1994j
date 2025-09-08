@@ -31,12 +31,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishek-chatterjee&show_icons=true&theme=radical" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-chatterjee&theme=radical" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhi1994j&show_icons=true&theme=radical" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi1994j&theme=radical" height="160px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek-chatterjee&theme=react-dark&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi1994j&theme=react-dark&hide_border=true" width="100%"/>
 </p>
 
 ---
