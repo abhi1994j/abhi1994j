@@ -13,7 +13,7 @@
 ## ⚡ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,webpack,git,github,postman,docker,aws,firebase,figma,java" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,webpack,git,github,postman,docker,aws,firebase,figma,java&perline=7" />
 </p>
 
 ---
