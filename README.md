@@ -16,6 +16,15 @@
     <a href="https://nextjs.org/" target="_blank">
         <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
     </a>
+    <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="sql" width="40" height="40"/>
+    </a>
+    <a href="https://leetcode.com/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="dsa" width="40" height="40"/>
+    </a>
+    <a href="https://www.figma.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+    </a>
     <a href="https://www.typescriptlang.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
     </a>
