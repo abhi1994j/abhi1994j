@@ -73,7 +73,7 @@ const abhishek = {
 
 ---
 
-## 📊 GitHub Statistics
+## 🚀 GitHub Stats
 
 <div align="center">
 
@@ -88,7 +88,7 @@ const abhishek = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi1994j&theme=tokyo-night&hide_border=false&area=true" width="49%"/>
 
 </div>
-](https://github-readme-stats.vercel.app/api/pin/?username=abhi1994j&repo=Zoomify-1&theme=tokyonight)
+
 ---
 
 ## 🐍 Contribution Snake
@@ -96,7 +96,6 @@ const abhishek = {
 <div align="center">
 
 ![Snake animation](https://github.com/abhi1994j/blob/output/github-contribution-grid-snake.svg)
-
 
 </div>
 
@@ -107,13 +106,14 @@ const abhishek = {
 <div align="center">
 
 <a href="https://github.com/abhi1994j/Zoomify-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhi1994j&repo=Zoomify&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhi1994j&repo=Zoomify-1&theme=tokyonight" alt="Zoomify Project" height="160px"/>
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhi1994j&repo=Ecommerce_Store-2&theme=tokyonight)](https://ecommerce-store-liard-iota.vercel.app/)
+<a href="https://ecommerce-store-liard-iota.vercel.app/">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhi1994j&repo=Ecommerce_Store-2&theme=tokyonight" alt="E-commerce Project" height="160px"/>
+</a>
 
 </div>
-
 ---
 
 ## 🌐 Connect with Me
