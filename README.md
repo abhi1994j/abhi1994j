@@ -96,7 +96,8 @@ const abhishek = {
 
 <div align="center">
 
-![snake gif](https://github.com/abhi1994j/abhi1994j/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/abhi1994j/blob/output/github-contribution-grid-snake.svg)
+
 
 </div>
 
