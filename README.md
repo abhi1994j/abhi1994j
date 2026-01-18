@@ -67,10 +67,9 @@ const abhishek = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=abhi1994j&margin-w=15&theme=onedark)](https://github.com/abhi1994j/github-profile-trophy)
-
-
+  <img src="https://github-profile-trophy.vercel.app/?username=abhi1994j&margin-w=15&theme=onedark" />
 </div>
+
 
 ---
 
