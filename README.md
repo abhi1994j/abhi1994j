@@ -3,8 +3,8 @@
 # 👋 Hi there, I'm **Abhishek Chatterjee**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00B8FF&center=true&vCenter=true&width=600&lines=💻+Full+Stack+Web+Developer;⚡+Backend+Enthusiast;🚀+Java+%26+DSA+Learner;🌍+Lifelong+Tech+Explorer" alt="Typing SVG" />
-
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="500"/>
+</div>
 
 </div>
 
