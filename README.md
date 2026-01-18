@@ -74,7 +74,7 @@ const abhishek = {
 
 ---
 
-[## 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
