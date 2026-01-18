@@ -2,9 +2,9 @@
 
 # 👋 Hi there, I'm **Abhishek Chatterjee**
 
-### 💻 Full Stack Web Developer | ⚡ Backend Enthusiast | 🚀 Java & DSA Learner | 🌍 Lifelong Tech Explorer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00B8FF&center=true&vCenter=true&width=600&lines=💻+Full+Stack+Web+Developer;⚡+Backend+Enthusiast;🚀+Java+%26+DSA+Learner;🌍+Lifelong+Tech+Explorer" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="500"/>
 
 </div>
 
@@ -19,8 +19,7 @@ const abhishek = {
     openTo: "Collaborating on Dev Experiments",
     lifeHack: "Explore 🔥 and Explode 💣 with knowledge",
     funFact: "I enjoy Meetups & Networking at Conferences",
-    location: "Airoli, Maharashtra, IN",
-    contact: "abhibaban4@gmail.com"
+    reachMe: "abhibaban4@gmail.com"
 };
 ```
 
@@ -49,17 +48,24 @@ const abhishek = {
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### DevOps & Cloud
+### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhi1994j&theme=algolia&no-frame=false&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -69,30 +75,25 @@ const abhishek = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=abhi1994j&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi1994j&theme=radical&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abhi1994j&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" height="180px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi1994j&theme=tokyonight&hide_border=false" height="180px"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi1994j&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages"/>
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi1994j&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" height="180px"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi1994j&theme=tokyo-night&hide_border=false&area=true" width="49%"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=abhi1994j&theme=radical&no-frame=true&no-bg=false&margin-w=15&column=4&row=2" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi1994j&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" width="95%" alt="Contribution Graph"/>
+![snake gif](https://github.com/abhi1994j/abhi1994j/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -102,25 +103,10 @@ const abhishek = {
 
 <div align="center">
 
-<a href="https://github.com/abhi1994j/Zoomify-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhi1994j&repo=Zoomify-1&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/abhi1994j/Ecommerce_Store-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhi1994j&repo=Ecommerce_Store-2&theme=radical&hide_border=true" />
-</a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhi1994j&repo=Zoomify-1&theme=tokyonight)](https://github.com/abhi1994j/Zoomify)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhi1994j&repo=Ecommerce_Store-2&theme=tokyonight)](https://ecommerce-store-liard-iota.vercel.app/)
 
 </div>
-
----
-
-## 💡 Current Focus
-
-- 🔭 Building **Full Stack Web Applications** with modern technologies
-- 🌱 Mastering **React Native** for cross-platform mobile development
-- 🐳 Learning **Docker** for containerization and deployment
-- ☁️ Exploring **AWS** cloud services and architecture
-- 👯 Open to collaborate on **innovative web projects**
-- 💬 Ask me about **JavaScript, React, Node.js, Java, DSA**
 
 ---
 
@@ -128,18 +114,10 @@ const abhishek = {
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/abhishek-chatterjee-9a7709209" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:abhibaban4@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://my-portfolio-three-opal-98.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://github.com/abhi1994j" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-chatterjee-9a7709209)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhibaban4@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-three-opal-98.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhi1994j)
 
 </div>
 
@@ -149,16 +127,14 @@ const abhishek = {
 
 ### 📈 Profile Views
 
-<img src="https://komarev.com/ghpvc/?username=abhi1994j&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+![Profile Views](https://komarev.com/ghpvc/?username=abhi1994j&style=for-the-badge&color=00B8FF)
+
+### ⭐ Show some love by starring repositories you find interesting!
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"/>
+**"Code. Learn. Build. Repeat. Keep Exploring 🚀 Keep Growing 🌱"**
 
-### 🔥 *"Code. Learn. Build. Repeat. Keep Exploring 🚀 Keep Growing 🌱"*
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
-
-### ⭐ Star my repositories if you find them interesting!
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
