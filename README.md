@@ -74,7 +74,7 @@ const abhishek = {
 
 ---
 
-## 📊 GitHub Statistics
+[## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -89,7 +89,7 @@ const abhishek = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi1994j&theme=tokyo-night&hide_border=false&area=true" width="49%"/>
 
 </div>
-
+](https://github-readme-stats.vercel.app/api/pin/?username=abhi1994j&repo=Zoomify-1&theme=tokyonight)
 ---
 
 ## 🐍 Contribution Snake
