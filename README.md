@@ -106,7 +106,10 @@ const abhishek = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhi1994j&repo=Zoomify-1&theme=tokyonight)](https://github.com/abhi1994j/Zoomify)
+<a href="https://github.com/abhi1994j/Zoomify-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhi1994j&repo=Zoomify-1&theme=tokyonight" />
+</a>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhi1994j&repo=Ecommerce_Store-2&theme=tokyonight)](https://ecommerce-store-liard-iota.vercel.app/)
 
 </div>
