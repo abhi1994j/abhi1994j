@@ -103,8 +103,8 @@ const abhishek = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhi1994j&repo=YOUR-REPO-1&theme=tokyonight)](https://github.com/abhi1994j/YOUR-REPO-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhi1994j&repo=YOUR-REPO-2&theme=tokyonight)](https://github.com/abhi1994j/YOUR-REPO-2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhi1994j&repo=Zoomify-1&theme=tokyonight)](https://github.com/abhi1994j/Zoomify)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhi1994j&repo=Ecommerce_Store-2&theme=tokyonight)](https://ecommerce-store-liard-iota.vercel.app/)
 
 </div>
 
