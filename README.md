@@ -1,80 +1,140 @@
-<h1 align="center">
-  👋 Hi there, I'm <span style="color:#00B8FF;">Abhishek Chatterjee</span>
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=💻+Full+Stack+Web+Developer;⚡+Backend+Enthusiast;🚀+Java+%26+DSA+Learner;🌍+Lifelong+Tech+Explorer" alt="Typing SVG" />
-</p>
+# 👋 Hi there, I'm **Abhishek Chatterjee**
 
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00B8FF&center=true&vCenter=true&width=600&lines=💻+Full+Stack+Web+Developer;⚡+Backend+Enthusiast;🚀+Java+%26+DSA+Learner;🌍+Lifelong+Tech+Explorer" alt="Typing SVG" />
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="500"/>
+
+</div>
 
 ---
 
-## 🚀 Quick Glance
+## 🚀 About Me
 
-- 💻 Full Stack Developer, exploring **React Native**
-- 🐳 Currently diving into **Docker** & **AWS**
-- 🤝 Open to **collaborating on Dev Experiments**
-- 🎯 Life Hack: *"Explore 🔥 and Explode 💣 with knowledge"*
-- ⚡ Fun Fact: I enjoy **Meetups** & **Networking at Conferences**
-
----
-
-## ⚡ Technologies & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,webpack,git,github,postman,docker,aws,firebase,figma,java&perline=8" />
-</p>
+```typescript
+const abhishek = {
+    role: "Full Stack Developer",
+    currentlyLearning: ["React Native", "Docker", "AWS"],
+    openTo: "Collaborating on Dev Experiments",
+    lifeHack: "Explore 🔥 and Explode 💣 with knowledge",
+    funFact: "I enjoy Meetups & Networking at Conferences",
+    reachMe: "abhibaban4@gmail.com"
+};
+```
 
 ---
 
-## 🏆 GitHub Achievements
+## 🛠️ Technologies & Tools
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhi1994j&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-</p>
+<div align="center">
 
----
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## 📊 GitHub Stats
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhi1994j&show_icons=true&theme=radical&hide_border=true" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi1994j&theme=radical&hide_border=true" height="160px"/>
-</p>
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi1994j&theme=react-dark&hide_border=true&bg_color=0D1117&line=00B8FF&point=FFFFFF" width="100%"/>
-</p>
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi1994j&layout=compact&theme=radical&hide_border=true" height="160px"/>
-</p>
-
----
-
-## 🌐 Let’s Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/abhishek-chatterjee-9a7709209" target="_blank">
-    <img src="https://img.shields.io/badge/-AbhishekChatterjee-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:abhibaban4@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
-  </a>
-  <a href="https://my-portfolio-three-opal-98.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhi1994j&style=flat-square&color=blue" alt="Profile views"/>
-</p>
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhi1994j&theme=algolia&no-frame=false&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
-🔥 *"Code. Learn. Build. Repeat. Keep Exploring 🚀 Keep Growing 🌱"*
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=abhi1994j&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" height="180px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi1994j&theme=tokyonight&hide_border=false" height="180px"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi1994j&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" height="180px"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi1994j&theme=tokyo-night&hide_border=false&area=true" width="49%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/abhi1994j/abhi1994j/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 💼 Featured Projects
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhi1994j&repo=YOUR-REPO-1&theme=tokyonight)](https://github.com/abhi1994j/YOUR-REPO-1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhi1994j&repo=YOUR-REPO-2&theme=tokyonight)](https://github.com/abhi1994j/YOUR-REPO-2)
+
+</div>
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-chatterjee-9a7709209)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhibaban4@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-three-opal-98.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhi1994j)
+
+</div>
+
+---
+
+<div align="center">
+
+### 📈 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=abhi1994j&style=for-the-badge&color=00B8FF)
+
+### ⭐ Show some love by starring repositories you find interesting!
+
+---
+
+**"Code. Learn. Build. Repeat. Keep Exploring 🚀 Keep Growing 🌱"**
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
