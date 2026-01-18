@@ -91,20 +91,6 @@ const abhishek = {
 
 ---
 
-## 💼 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/abhi1994j/Zoomify-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhi1994j&repo=Zoomify-1&theme=tokyonight" alt="Zoomify Project" height="160px"/>
-</a>
-
-<a href="https://ecommerce-store-liard-iota.vercel.app/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhi1994j&repo=Ecommerce_Store-2&theme=tokyonight" alt="E-commerce Project" height="160px"/>
-</a>
-
-</div>
-
 ## 🌐 Connect with Me
 
 <div align="center">
