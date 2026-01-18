@@ -67,17 +67,13 @@ const abhishek = {
 ## 🚀 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abhi1994j&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" height="180px"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi1994j&theme=tokyonight&hide_border=false" height="180px"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=abhi1994j&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" height="180px"/>
 </div>
-
+<div align= "center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi1994j&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" height="180px"/>
+</div>
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi1994j&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" height="180px"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi1994j&theme=tokyo-night&hide_border=false&area=true" width="49%"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi1994j&theme=tokyo-night&hide_border=false&area=true" width="49%"/>
 </div>
 
 ---
