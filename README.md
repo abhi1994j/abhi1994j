@@ -68,7 +68,7 @@ const abhishek = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abhi1994&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhi1994)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
