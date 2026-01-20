@@ -24,7 +24,7 @@ const abhishek = {
     funFact: "I enjoy Meetups & Networking at Conferences",
     reachMe: "abhibaban4@gmail.com"
 };
-```
+
 - 🔭 I’m currently working on [Zoomify](https://zoomify-ruddy.ver)
 
 - 🤝 I’m looking for help with [Shoppora Store](https://zoomify-ruddy.ver)
