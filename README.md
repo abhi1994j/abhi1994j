@@ -57,7 +57,7 @@ const abhishek = {
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi1994j&" alt="abhi1994j" /></p>
 
-<p><img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi1994j&theme=tokyo-night&hide_border=false&area=true" width="49%"/></p>
+<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=abhi1994j&theme=tokyo-night&hide_border=false&area=true" /></p>
 
 ---
 
