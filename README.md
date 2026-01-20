@@ -39,6 +39,7 @@ const abhishek = {
 <a href="https://www.hackerrank.com/abhibaban4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhibaban4" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abhibaban4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhibaban4" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/700131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="700131" height="30" width="40" /></a>
+<a href="mailto:abhibaban4@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 ---
 
@@ -60,16 +61,8 @@ const abhishek = {
 
 ---
 
-## 🌐 Connect with Me
 
-<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-chatterjee-9a7709209)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhibaban4@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-three-opal-98.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhi1994j)
-
-</div>
 
 ---
 
