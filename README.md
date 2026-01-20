@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm **Abhishek Chatterjee**
+# 👋 Hi there, I'm **Abhishek  Chatterjee**
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=💻+Full+Stack+Web+Developer;⚡+Backend+Enthusiast;🚀+Java+%26+DSA+Learner;🌍+Lifelong+Tech+Explorer" alt="Typing SVG" />
