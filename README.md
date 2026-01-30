@@ -55,8 +55,8 @@ const abhishek = {
 </p>
 
 <!-- GitHub Stats -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi1994j&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-</p>
+
+[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=abhi1994j)](https://github.com/FajarKim/github-readme-profile)
 <!-- Streak Stats -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi1994j&theme=dark" alt="GitHub Streak"/>
 </p>
