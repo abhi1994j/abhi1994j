@@ -51,8 +51,9 @@ const abhishek = {
 ## 🚀 GitHub Stats
 
 <!-- Language Stats -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi1994j&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi1994j&layout=compact&langs_count=8&card_width=320" alt="Top Languages" />
 </p>
+
 
 <!-- GitHub Stats -->
 
