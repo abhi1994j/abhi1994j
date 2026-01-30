@@ -25,9 +25,9 @@ const abhishek = {
     reachMe: "abhibaban4@gmail.com"
 };
 ```
-- 🔭 I’m currently working on [Zoomify](https://zoomify-ruddy.ver)
+- 🔭 I’m currently working on [Zoomify](https://zoomify-ruddy.vercel.app/)
 
-- 🤝 I’m looking for help with [Shoppora Store](https://zoomify-ruddy.ver)
+- 🤝 I’m looking for help with [Shoppora Store](https://ecommerce-store-liard-iota.vercel.app/)
 
 - 💬 Ask me about **ReactJs, Javascript**
 
