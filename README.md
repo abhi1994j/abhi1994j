@@ -50,21 +50,17 @@ const abhishek = {
 
 ## 🚀 GitHub Stats
 
+<div align="center">
 <!-- Language Stats -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi1994j&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhi1994j&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/abhi1994j)
 <!-- GitHub Stats -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi1994j&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-</p>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi1994j&layout=compact&theme=radical&hide_border=true)](https://github.com/abhi1994j)
 <!-- Streak Stats -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi1994j&theme=dark" alt="GitHub Streak"/>
-</p>
-
-<!-- Activity Graph (alternative) -->
-<p> <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi1994j&theme=github_dark" alt="Activity Graph" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=abhi1994j&theme=radical&hide_border=true)](https://github.com/abhi1994j)
+<!-- Activity Graph (alternative) -->  
+[![Github profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi1994j&theme=github_dark)](https://github.com/abhi1994j)
+  
+</div>
 
 ---
 
