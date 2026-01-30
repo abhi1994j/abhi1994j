@@ -58,10 +58,10 @@ const abhishek = {
 
 <p><img align="right" src="https://gh-readme-profile.vercel.app/api?username=abhi1994j" alt="GitHub Stats" /></p>
 <!-- Streak Stats -->
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi1994j&theme=dark" alt="GitHub Streak"/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi1994j&theme=dark" alt="GitHub Streak"/>
 </p>
 <!-- Activity Graph (alternative) -->
-<p><img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi1994j&theme=github_dark" alt="Activity Graph" width="600" />
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi1994j&theme=github_dark" alt="Activity Graph" />
 </p>
 
 ---
