@@ -51,23 +51,19 @@ const abhishek = {
 ## 🚀 GitHub Stats
 
 <!-- Language Stats -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi1994j&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi1994j&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 <!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhi1994j&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi1994j&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 </p>
 
 <!-- Streak Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi1994j&theme=dark" alt="GitHub Streak" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi1994j&theme=dark" alt="GitHub Streak"/>
 </p>
 
 <!-- Activity Graph (alternative) -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi1994j&theme=github_dark" alt="Activity Graph" />
+<p> <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi1994j&theme=github_dark" alt="Activity Graph" />
 </p>
 
 ---
